@@ -1,6 +1,8 @@
-### Hi, I'm Aritra 👋
+![Header banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0d1117&height=180&section=header&text=Aritra%20Sur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quality%20Engineer%20%7C%20Test%20Automation%20Specialist&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Quality+Engineer;Test+Automation+Specialist;UI+%2B+API+Automation;AI-Augmented+Testing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aritra+Sur)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Quality+Engineer;Test+Automation+Specialist;UI+%2B+API+Automation;AI-Augmented+Testing)](https://git.io/typing-svg)
 
 - 🔧 Building UI automation frameworks with Java, Selenium, and Cucumber (BDD)
 - 🔗 Building API automation frameworks with Java, Cucumber (BDD), TestNG, and REST Assured
