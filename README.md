@@ -17,18 +17,9 @@
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-3E863D?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### Stats
+#### GitHub Streak
 
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117" alt="Aritra's GitHub streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrasur47&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" /></td>
-  </tr>
-</table>
-
-#### Trophies
-
-![Aritra's trophies](https://github-profile-trophy.vercel.app/?username=aritrasur47&theme=darkhub&no-frame=true&row=1&column=6)
+![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117)
 
 #### Contribution Snake
 
