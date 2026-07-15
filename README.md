@@ -1,11 +1,28 @@
 ### Hi, I'm Aritra 👋
 
-**Quality Engineer | Test Automation Specialist**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Quality+Engineer;Test+Automation+Specialist;UI+%2B+API+Automation;AI-Augmented+Testing)](https://git.io/typing-svg)
 
 - 🔧 Building UI automation frameworks with Java, Selenium, and Cucumber (BDD)
 - 🔗 Building API automation frameworks with Java, Cucumber (BDD), TestNG, and REST Assured
 - 🧪 Focused on scalable, maintainable test suites and CI-friendly automation
 - 🌱 Always exploring better ways to test and validate applications and APIs
+
+#### Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-3E863D?style=for-the-badge&logo=apachemaven&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### GitHub Streak
+
+![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=default&hide_border=true)
+
+#### Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/aritrasur47/aritrasur47/output/github-contribution-grid-snake.svg)
 
 #### Let's connect 👋
 
