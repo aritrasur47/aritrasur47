@@ -11,6 +11,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-3E863D?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -18,11 +19,14 @@
 
 #### GitHub Streak
 
-![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=default&hide_border=true)
+![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117)
 
 #### Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/aritrasur47/aritrasur47/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aritrasur47/aritrasur47/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/aritrasur47/aritrasur47/output/github-contribution-grid-snake.svg" />
+</picture>
 
 #### Let's connect 👋
 
