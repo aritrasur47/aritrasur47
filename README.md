@@ -21,7 +21,7 @@
 
 ![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117)
 
-#### Contribution Snake
+#### Commit & Conquer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aritrasur47/aritrasur47/output/github-contribution-grid-snake-dark.svg" />
