@@ -19,7 +19,7 @@
 
 #### GitHub Streak
 
-![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117)
+![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117&v=2)
 
 #### Commit & Conquer
 
