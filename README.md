@@ -19,7 +19,7 @@
 
 #### Contribution Graph
 
-![Aritra's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=aritrasur47&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aritrasur47&theme=react-dark&custom_title=Contribution%20Graph)
 
 #### Commit & Conquer
 
