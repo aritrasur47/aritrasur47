@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<br /><br />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aritrasur47&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
