@@ -1,5 +1,7 @@
 ### Hi, I'm Aritra 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=aritrasur47&color=2E9EF7&style=for-the-badge&label=Profile+Views)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Quality+Engineer;Test+Automation+Specialist;UI+%2B+API+Automation;AI-Augmented+Testing)](https://git.io/typing-svg)
 
 - 🔧 Building UI automation frameworks with Java, Selenium, and Cucumber (BDD)
