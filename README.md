@@ -17,6 +17,10 @@
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-3E863D?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+#### Activity Graph
+
+![Aritra's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aritrasur47&theme=react-dark)
+
 #### Commit & Conquer
 
 <picture>
