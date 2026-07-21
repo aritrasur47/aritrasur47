@@ -17,10 +17,6 @@
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-3E863D?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### GitHub Streak
-
-![Aritra's GitHub streak](https://streak-stats.demolab.com?user=aritrasur47&theme=dark&hide_border=true&background=0d1117&v=3)
-
 #### Commit & Conquer
 
 <picture>
