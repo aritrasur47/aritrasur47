@@ -7,6 +7,7 @@
 - 🧪 Focused on scalable, maintainable test suites and CI-friendly automation
 - 🌱 Always exploring better ways to test and validate applications and APIs
 - 🔄 Comfortable working in Agile/Scrum teams, collaborating closely with dev and product to shape test strategy early
+- ✅ Functional testing with a focus on edge cases and requirement coverage
 
 #### Tech Stack
 
