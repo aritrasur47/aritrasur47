@@ -21,6 +21,12 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aritrasur47&theme=react-dark&custom_title=Contribution%20Graph)
 
+#### Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aritrasur47&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
 #### Commit & Conquer
 
 <picture>
@@ -33,5 +39,3 @@
 <a href="https://www.linkedin.com/in/suraritra/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aritrasur47&color=2E9EF7&style=for-the-badge&label=Profile+Views)
